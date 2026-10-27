@@ -36,5 +36,5 @@ function trierDepenses (depenses) {
 console.log(`Tableau initial avant le tri :${depensesSemaine}`);
  const tri = trierDepenses(depensesSemaine);
  console.log (`la copie triée: ${tri}`) ;
- console.log (`tableau initial apres le tri :${depensesSemaine}`);
+ console.log (`tableau initial apres le tri :${depensesSemaine}`)
 
