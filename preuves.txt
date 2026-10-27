@@ -3,7 +3,6 @@ J06 — Preuve d’exécution
 Commande réellement lancée dans Windows PowerShell :
 
 PS C:\Users\DELL\Documents\depart> node depenses.js
-
 Sortie obtenue après avoir terminé le programme :
 somme:14500FCFA
 la moyenne est :${calculerMoyenne.length,1}FCFA
